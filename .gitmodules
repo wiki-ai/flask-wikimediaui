@@ -1,0 +1,3 @@
+[submodule "flask_wikimediaui/static"]
+	path = flask_wikimediaui/static
+	url = https://github.com/munmay/WikimediaUI
